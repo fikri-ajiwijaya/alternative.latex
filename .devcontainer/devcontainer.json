@@ -2,6 +2,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"James-Yu.latex-workshop",
 				"ms-azuretools.vscode-containers"
 			]
 		}
